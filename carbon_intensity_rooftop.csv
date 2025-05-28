@@ -1,0 +1,37 @@
+Country,Country code,Capital,CI electricity mix (gCO2-eq/kWh),S-opta (gCO2-eq/kWh),Flat roof (gCO2-eq/kWh),S-90° (gCO2-eq/kWh),W-90° (gCO2-eq/kWh),N-90° (gCO2-eq/kWh)
+Austria,AT,"Vienna (48.2°N, 16.4°E)",264,35.1,42.0,50.2,72.2,211.0
+Belgium,BE,"Brussels (50.8°N, 4.4°E)",230,40.1,47.9,56.0,80.8,206.9
+Bulgaria,BG,"Sofia (42.6°N, 24°E)",544,30.8,37.4,48.1,69.9,190.6
+Cyprus,CY,"Nicosia (35.1°N, 33.2°E)",791,25.5,28.9,41.8,55.1,192.0
+Czechia,CZ,"Prague (50°N, 14.5°E)",564,38.3,45.5,54.4,78.1,214.8
+Germany,DE,"Berlin (52.5°N, 13.4°E)",422,39.0,47.3,54.2,79.9,215.1
+Denmark,DK,"Copenhagen (55.7°N, 12.6°E)",158,39.8,48.3,54.5,77.6,220.5
+Estonia,EE,"Tallinn (59.4°N, 24.8°E)",472,46.0,56.5,62.8,88.1,248.6
+Greece,EL,"Athens (38°N, 23.7°E)",780,26.1,29.1,43.2,51.1,191.1
+Spain,ES,"Madrid (40.4°N, 3.7°W)",279,25.5,30.4,38.3,54.8,207.0
+Finland,FI,"Helsinki (60.2°N, 24.9°E)",141,42.6,52.9,57.3,82.5,252.5
+France,FR,"Paris (48.9°N, 2.3°E)",98,36.0,43.2,50.7,74.7,199.7
+Croatia,HR,"Zagreb (45.8°N, 16°E)",372,34.1,40.0,50.2,69.8,208.8
+Hungary,HU,"Budapest (47.5°N, 19.1°E)",338,33.3,39.9,47.6,69.2,205.8
+Ireland,IE,"Dublin (53.3°N, 6.3°E)",384,42.5,52.0,57.1,87.5,207.4
+Italy,IT,"Rome (41.9°N, 12.5°E)",356,27.6,32.6,41.8,58.1,204.0
+Latvia,LV,"Riga (56.9°N, 24.1°E)",325,42.3,51.8,57.7,83.8,232.0
+Lithuania,LT,"Vilnius (54.7°N, 25.3°E)",321,43.2,51.5,60.5,86.7,232.2
+Luxembourg,LU,"Luxembourg (49.7°N, 6.1°E)",338,39.7,46.2,57.6,79.9,205.7
+Malta,MT,"Valletta (35.9°N, 14.5°E)",463,25.0,28.2,42.0,51.1,190.4
+Netherlands,NL,"Amsterdam (52.4°N, 4.9°E)",450,40.1,48.2,55.9,78.2,210.6
+Poland,PL,"Warsaw (52.2°N, 21°E)",805,39.4,47.3,55.3,80.7,220.5
+Portugal,PT,"Lisbon (38.7°N, 9.1°W)",324,26.1,30.0,41.8,54.3,193.0
+Romania,RO,"Bucharest (44.4°N, 26.1°E)",464,32.2,37.5,48.2,66.9,205.4
+Slovakia,SK,"Bratislava (48.1°N, 17.1°E)",346,34.6,41.2,49.9,72.0,213.6
+Slovenia,SI,"Ljubljana (46°N, 14.5°E)",307,37.2,42.6,56.2,71.5,216.6
+Sweden,SE,"Stockholm (59.3°N, 18.1°E)",40,41.9,53.2,55.6,81.9,238.2
+Iceland,IS,"Reykjavik (64.1°N, 21.9°W)",26,46.4,63.3,58.7,60.6,222.8
+Norway,NO,"Oslo (59.9°N, 10.6°E)",31,45.3,57.7,59.6,90.2,257.4
+Switzerland,CH,"Bern (46.9°N, 7.4°E)",78,34.7,41.3,49.4,73.1,205.2
+United Kingdom,UK,"London (51.5°N, 0.1°W)",304,39.4,50.0,53.5,54.0,217.5
+Ukraine,UA,"Kiev (50.4°N, 30.5°E)",492,37.8,45.0,55.4,59.7,246.7
+Serbia,RS,"Belgrade (44.8°N, 20.4°E)",900,33.0,38.9,48.7,69.7,207.1
+Albania,AL,"Tirana (41.3°N, 19.8°E)",24,29.3,34.3,44.1,62.9,204.4
+Montenegro,ME,"Podgorica (42.4°N, 19.3°E)",663,29.4,34.9,43.7,63.1,218.5
+Turkey,TR,"Istanbul (41°N, 29°W)",588,30.0,34.0,47.9,60.3,197.4
